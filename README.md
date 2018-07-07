@@ -4,26 +4,33 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://startbootstrap.com/assets/img/templates/david-resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
 **[View Live Preview](https://github.com/DavidMwasikira/startbootstrap-resume/)**
 
-## Status
+## Skills
+
+### Project Management 
+### Industrial Process Manufacturing
+### Web Development
 
 
 
-## Download and Installation
 
+## Programming Languages & Tools
 
-
-## Usage
-
-### Basic Usage
+### HTML / CSS & JavaScript
+### The MEAN Stack
+### Python
+### Django
+### Wagtail CMS
 
 
 
 
 ## About
+
+### Passionate about developing solutions to make life better and easier
 
 
 
