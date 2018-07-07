@@ -4,7 +4,8 @@
 
 ## Preview
 
-[![Resume Preview](./img/david-resume.png)](https://github.com/DavidMwasikira/startbootstrap-resume/)
+[![Resume Preview](./img/david-resume.png)](img/david-resume.png)(https://github.com/DavidMwasikira/startbootstrap-resume/)
+
 
 **[View Live Preview](https://github.com/DavidMwasikira/startbootstrap-resume/)**
 
