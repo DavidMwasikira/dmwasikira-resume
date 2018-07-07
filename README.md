@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/david-resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](./img/david-resume.png)](https://github.com/DavidMwasikira/startbootstrap-resume/)
 
 **[View Live Preview](https://github.com/DavidMwasikira/startbootstrap-resume/)**
 
