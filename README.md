@@ -20,21 +20,23 @@
 
 ## Programming Languages & Tools
 
-### HTML / CSS & JavaScript
-### The MEAN Stack
-### Python
-### Django
-### Wagtail CMS
+### - HTML / CSS & JavaScript
+### - The MEAN Stack (MongoDB, Express/NodeJS, Angular Frameworks)
+### - Python
+### - Python Django & Wagtail CMS
+### - Dart and Flutter (for App Development)
+### - Java
+### - R Programming
 
 
 
 
 ## About
 
-### Passionate about developing solutions to make life better and easier
+### Passionate about developing products & solutions to make life easier and better
 
 
 
-## Copyright and License
+## Data Analytics
 
 
