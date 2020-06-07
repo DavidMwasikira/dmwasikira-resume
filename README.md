@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Resume Preview](https://sites.google.com/view/david-mwasikira/david-resume)
+![Site Preview](site_page.jpg "title")
 
 
 **[View Live Preview](https://sites.google.com/view/david-mwasikira/david-resume)**
