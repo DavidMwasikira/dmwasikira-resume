@@ -1,10 +1,11 @@
 # [David M - Resume]
 
+![Site Preview](site_page.jpg "title")
 [David's Resume] is a preview of the online resume.
 
 ## Preview
 
-![Site Preview](site_page.jpg "title")
+![Site Preview](./site_page.jpg "title")
 
 
 **[View Live Preview](https://sites.google.com/view/david-mwasikira/david-resume)**
