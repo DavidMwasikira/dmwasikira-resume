@@ -1,4 +1,4 @@
-# [David M - Resume]
+# [David M - Blog]
 
 
 ## Preview
